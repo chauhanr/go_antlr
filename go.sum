@@ -1,0 +1,3 @@
+github.com/antlr/antlr4 v0.0.0-20220209173558-ad29539cd2e9 h1:NAjo5dlbySnIEFVRSgPwy+WjEDSY4EL6baGKvvPI/QM=
+github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220209173558-ad29539cd2e9 h1:zvkJv+9Pxm1nnEMcKnShREt4qtduHKz4iw4AB4ul0Ao=
+github.com/antlr/antlr4/runtime/Go/antlr v0.0.0-20220209173558-ad29539cd2e9/go.mod h1:F7bn7fEU90QkQ3tnmaTx3LTKLEDqnwWODIYppRQ5hnY=
